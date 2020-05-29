@@ -104,7 +104,7 @@ getNewQuestions = () =>{
         //save the user score:
         localStorage.setItem("mostRecentScore", score);
         //go to ebd of the page:
-        return window.location.assign('/end.html');
+        return window.location.assign('end.html');
     }
 
     questionCounter++;

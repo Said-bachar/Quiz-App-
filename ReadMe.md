@@ -3,6 +3,9 @@
 ![Home Screen](./img/quizApp.png)
 
 ***
+To Test the project directly use the link bellow :
+  * https://said-bachar.github.io/Quiz-App-/ 
+***
 Build a Quiz App with HTML, CSS, and JavaScript to improve your Core Web Dev.
 
 Want to improve your **core Web Dev skills**? Want to improve your knowledge of **HTML, CSS, and JavaScript**? In this simple project, you're going to learn how to build a Quiz application **without the assistance of libraries or frameworks**. Here are some of the topic we will cover!
